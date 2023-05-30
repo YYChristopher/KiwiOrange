@@ -1,0 +1,1 @@
+python test.py  --checkpoint_dir  checkpoint/generator_Hayao_weight  --test_dir dataset/test/HR_photo --save_dir save_dir
